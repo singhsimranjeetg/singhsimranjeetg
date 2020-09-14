@@ -2,7 +2,7 @@
 
 Certified Shopify partner and developer from Toronto. Front end developer with over 1 year of experience. Experienced with all stages of the development cycle for dynamic web projects. Using code and illustrations to push creative stuff to web.
 
-<br>
+Let's connect !
 
 [![Twitter Badge](https://img.shields.io/badge/-Simranjeet_Singh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Simranj25174647)](https://twitter.com/Simranj25174647) 
  [![Linkedin Badge](https://img.shields.io/badge/-Simranjeeet_Singh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet-singh-629b24172) 
