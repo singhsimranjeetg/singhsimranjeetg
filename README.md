@@ -1,13 +1,14 @@
 ## 1. Hi I'm Simranjeet Singh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Certified Shopify partner and developer from Toronto. Front end developer with over 1 year of experience. Experienced with all stages of the development cycle for dynamic web projects.
+Certified Shopify partner and developer from Toronto. Front end developer with over 1 year of experience. Experienced with all stages of the development cycle for dynamic web projects. Using code and illustrations to push creative stuff to web.
 
-:email: Reach me out!
+<br>
 
 [![Twitter Badge](https://img.shields.io/badge/-Simranjeet_Singh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Simranj25174647)](https://twitter.com/Simranj25174647) 
  [![Linkedin Badge](https://img.shields.io/badge/-Simranjeeet_Singh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet-singh-629b24172) 
-[![Mail Badge](https://img.shields.io/badge/-Simranjeet_Singh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) 
-[![Mail Badge](https://img.shields.io/badge/-Simranjeet_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Simranjeet_Singh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/its_simranjeet_singh) 
+[![Mail Badge](https://img.shields.io/badge/-Simranjeet_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:simranjeetsingh6076gmail.com)
+
 
 <!-- TODO: Add last video link -->
 
@@ -22,11 +23,11 @@ Certified Shopify partner and developer from Toronto. Front end developer with o
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SASS Badge](https://img.shields.io/badge/-SASS-BF4080?style=for-the-badge&labelColor=black&logo=sass&logoColor=BF4080)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-LIQUID-3399CC?style=for-the-badge&labelColor=black&logo=shopify&logoColor=3399CC)](#)
-[![GRAPHQL Badge](https://img.shields.io/badge/-GRAPHQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/singhsimranjeetg/gta-products) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/singhsimranjeetg/gta-products) [![SASS Badge](https://img.shields.io/badge/-SASS-BF4080?style=for-the-badge&labelColor=black&logo=sass&logoColor=BF4080)](https://github.com/singhsimranjeetg/Brampton-Estate) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/singhsimranjeetg/shopify-app-node) 
+[![GraphQL Badge](https://img.shields.io/badge/-LIQUID-3399CC?style=for-the-badge&labelColor=black&logo=shopify&logoColor=3399CC)](https://github.com/singhsimranjeetg/shopify-portfolio)
+[![GRAPHQL Badge](https://img.shields.io/badge/-GRAPHQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](https://github.com/singhsimranjeetg/Reactofy)
 
 <!-- 
 ### 1.1. Tutorials
@@ -104,7 +105,7 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 #### 1.1.5. Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=singhsimranjeetg&count_private=true&theme=onedark&hide=contribs,prs)
+![Simranjeet's github stats](https://github-readme-stats.vercel.app/api?username=singhsimranjeetg&count_private=true&theme=onedark&hide=contribs,prs)
 
 </details>
 
