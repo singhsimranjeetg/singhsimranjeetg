@@ -12,7 +12,7 @@ Let's connect !
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working as Shopify Developer
+- 🔭 I’m currently learning all things Shopify and also buidling PWA with reactjs.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for amazing ideas for startups.
 - 📫 How to reach :simranjeetsingh6076@gmail.com.
