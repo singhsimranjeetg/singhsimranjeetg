@@ -1,23 +1,9 @@
-## 1. Hi I'm Simranjeet Singh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-Certified Shopify partner and developer from Toronto. Front end developer with over 1 year of experience. Experienced with all stages of the development cycle for dynamic web projects. Using code and illustrations to push creative stuff to web.
-
-Let's connect !
+## 1. Hi I'm Simranjeet Singh
 
 [![Twitter Badge](https://img.shields.io/badge/-Simranjeet_Singh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Simranj25174647)](https://twitter.com/Simranj25174647) 
  [![Linkedin Badge](https://img.shields.io/badge/-Simranjeeet_Singh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet-singh-629b24172) 
 [![Mail Badge](https://img.shields.io/badge/-Simranjeet_Singh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/its_simranjeet_singh) 
 [![Mail Badge](https://img.shields.io/badge/-Simranjeet_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:simranjeetsingh6076gmail.com)
-
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently learning all things Shopify and also buidling PWA with reactjs.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for amazing ideas for startups.
-- 📫 How to reach :simranjeetsingh6076@gmail.com.
-- 📣 Pronouns: Simranjeet, sim-run-jeet.
-- 😂 Fun fact: In childhood, I used to think airplanes never land and abroad is in Space. 
 
 #### 1.0.1. Top Technologies
 
@@ -59,24 +45,6 @@ Let's connect !
 <br />
 <br />
 
-
-
-#### 1.1.1. Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
--->
 #### 1.1.2. Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=singhsimranjeetg)
@@ -87,14 +55,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 </summary>
 
 <br >
-<!-- 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!  
-#### 1.1.3. What is CoderOne?
-
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
--->
-
 
 
 #### 1.1.4. Coding Stats
